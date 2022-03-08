@@ -1,8 +1,8 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
-import Address from "./Components/Address";
-import FullName from "./Components/FullName";
-import ProfilePhoto from "./Components/ProfilePhoto";
+import Address from "./component/Address";
+import FullName from "./component/FullName";
+import ProfilePhoto from "./component/ProfilePhoto";
 function App() {
   return (
     <div className="App">
